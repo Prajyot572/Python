@@ -1,0 +1,7 @@
+1) A string represents a sequence of characters.
+2) It is an immutable data type in most of the programming language including Java and Python, meaning that once you have created a string, you cannot change it.
+3) Python programming does not have a character data type, a single character is simply a string with a length of 1.
+4) Strings in Python can be created using single quotes or double quotes or even triple quotes.
+5) In this example, we will demonstrate different ways to create a Python String.
+	a) We will create a string using single quotes (' '), double quotes (" "), and triple double quotes (""" """), the triple double quotes can be used to declare
+           multiline string in Python.
